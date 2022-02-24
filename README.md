@@ -5,7 +5,28 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
 ---
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [X] (5pts) User can tap a cell to see more details about a particular movie.
+- [X] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="https://s10.gifyu.com/images/Screen-Recording-2022-02-23-at-9.39.27-PM.md.gif" width=250><br>
+
+Gif Url: https://s10.gifyu.com/images/Screen-Recording-2022-02-23-at-9.39.27-PM.md.gif
+
+### Notes
+For some reason, using code to change the layout of the gridview seems to do nothing. No difference when commented out vs not.
 ## Flix Part 1
 
 ### User Stories
